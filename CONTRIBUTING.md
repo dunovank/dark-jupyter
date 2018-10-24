@@ -26,7 +26,12 @@ GitHub, clone, and develop on a branch. Steps:
    ```bash
    $ git checkout -b yourname-feature
    ```
-
+   This will also change the branch from master to the newly created branch. If not change branch using command:
+   
+   ```bash
+   $ git checkout yourname-feature
+   ```
+   
    Always use a ``feature`` branch. It's good practice to never work on the ``master`` branch!
 
 4. Develop the feature on your feature branch. Add changed files using ``git add`` and then ``git commit`` files:
