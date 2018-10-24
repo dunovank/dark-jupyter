@@ -1,6 +1,4 @@
 # sherlock-theme
-
-## Color-ify your Jupyter Notebooks!
 ### Dark theme for Jupyter Notebooks!
 
 ### Requirements
