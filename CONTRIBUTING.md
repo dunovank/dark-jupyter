@@ -6,10 +6,10 @@ How to contribute
 -----------------
 
 The preferred workflow for contributing to sherlock-theme is to fork the
-[main repository](https://github.com/openwisdom/sherlock-theme/) on
+[main repository](https://github.com/colorpal/dark-jupyter/) on
 GitHub, clone, and develop on a branch. Steps:
 
-1. Fork the [project repository](https://github.com/openwisdom/sherlock-theme/)
+1. Fork the [project repository](https://github.com/colorpal/dark-jupyter/)
    by clicking on the 'Fork' button near the top right of the page. This creates
    a copy of the code under your GitHub user account. For more details on
    how to fork a repository see [this guide](https://help.github.com/articles/fork-a-repo/).
@@ -17,8 +17,8 @@ GitHub, clone, and develop on a branch. Steps:
 2. Clone your fork of the sherlock-them repo from your GitHub account to your local disk:
 
    ```bash
-   $ git clone git@github.com:YourLogin/sherlock-theme.git
-   $ cd sherlock-theme
+   $ git clone git@github.com:YourLogin/dark-jupyter.git
+   $ cd dark-jupyter
    ```
 
 3. Create a ``feature`` branch to hold your development changes:
@@ -97,8 +97,8 @@ It is recommended to check that your issue complies with the
 following rules before submitting:
 
 -  Verify that your issue is not being currently addressed by other
-   [issues](https://github.com/openwisdom/sherlock-theme/issues?q=)
-   or [pull requests](https://github.com/openwisdom/sherlock-theme/pulls?q=).
+   [issues](https://github.com/colorpal/dark-jupyter/issues?q=)
+   or [pull requests](https://github.com/colorpal/dark-jupyter/pulls?q=).
 
 -  Please ensure all code snippets and error messages are formatted in
    appropriate code blocks.
