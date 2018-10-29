@@ -1,5 +1,5 @@
 # dark-jupyter
-### Dark theme for Jupyter Notebooks!
+### Dark theme for Jupyter Notebook!
 
 ### Requirements
 * Python 2.7+
