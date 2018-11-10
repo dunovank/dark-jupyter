@@ -1,4 +1,4 @@
-# dark-jupyter [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)] [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)] [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)]
+# dark-jupyter [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com)
 
 ### Dark theme for Jupyter Notebook! ![version](https://img.shields.io/badge/version-1.0.0-orange.svg) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
