@@ -1,5 +1,5 @@
 
-Contributing to sherlock-theme
+Contributing to dark-jupyter
 ============================
 
 How to contribute

@@ -2,7 +2,7 @@
 ### Dark theme for Jupyter Notebook!
 
 ### Requirements
-* Python 2.7+
+* Python 2.7+,3x
 * Jupyter ([Anaconda](https://www.continuum.io/downloads) recommended)
 * Matplotlib
 
