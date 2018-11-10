@@ -1,6 +1,5 @@
 # dark-jupyter
-### Dark theme for Jupyter Notebook! ![version](https://img.shields.io/badge/version-1.0.0-orange.svg)
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+### Dark theme for Jupyter Notebook! ![version](https://img.shields.io/badge/version-1.0.0-orange.svg) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ### Requirements
 * Python 2.7+, 3.0+
