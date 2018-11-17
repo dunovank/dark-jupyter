@@ -32,7 +32,7 @@
 
 
 ### How to support me?
-I firmly believe that software is best served open and, as such, am committed to providing free and easy access to all my code. If you're sitting on some extra time and enjoy using a package I've developed, then any amount of help is *greatly* appreciated.
+I firmly believe that software is best served open and, as such, am committed to providing free and easy access to all my code. If you're sitting on some extra time and enjoy using a package I've developed, then any amount of help is *greatly* appreciated. **We are open to any kind of suggestions regarding style and structure of the theme*.*
 
 Please click on the *Star* button of this repository (present at the top-right corner) to show some extra appreciation.
 
