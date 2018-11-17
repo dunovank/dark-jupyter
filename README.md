@@ -6,6 +6,10 @@
 | :----------: | :----------: | :----------: |
 | Kumar Nityan Suman | ![version](https://img.shields.io/badge/version-1.0.0-orange.svg) | ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) |
 
+
+![Conda](https://img.shields.io/conda/pn/conda-forge/python.svg?style=social)
+
+
 **Dark-Jupyter** theme is specially designed for Jupyter Notebook. It works on any version of the notebook. It supports all different versions of python and works in synch with any other jupyter extensions.
 
 #### Home
@@ -23,7 +27,22 @@
 #### Interactive Plot
 ![image](screens/plot.png)
 
+### How to install ?
 
+If familier with git and a nerd,
+
+```
+$ git clone https://github.com/colorpal/dark-jupyter.git
+$ mv dark-jupyter ~/.jupyter/custom/
+```
+
+If you don't want to go the above way,
+```
+Step 1: Clone the github repo by clicking on the "Clone or Download" button.
+Step 2: Click on the "Download ZIP" option.
+Step 3: Save the folder (dark-jupyter) at location : ~/.jupyter/custom/
+(If location not found, create the folder)
+```
 
 ### Requirements
 * Python 2.7+, 3.0+
