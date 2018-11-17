@@ -8,6 +8,22 @@
 
 **Dark-Jupyter** theme is specially designed for Jupyter Notebook. It works on any version of the notebook. It supports all different versions of python and works in synch with any other jupyter extensions.
 
+#### Home
+![image](screens/home.png)
+
+#### Loading Packages
+![image](screens/loading-packages.png)
+
+#### Dataframe View
+![image](screens/dataframe.png)
+
+#### Basic Plot
+![image](screens/basic-plot.png)
+
+#### Interactive Plot
+![image](screens/plot.png)
+
+
 
 ### Requirements
 * Python 2.7+, 3.0+
