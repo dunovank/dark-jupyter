@@ -1,7 +1,10 @@
 # dark-jupyter [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com)
 
-### Dark theme for Jupyter Notebook! ![version](https://img.shields.io/badge/version-1.0.0-orange.svg) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+### Dark theme for Jupyter Notebook!
 
+|    Author    | Version    | License |
+| :----------: | :----------: | :----------: |
+| Kumar Nityan Suman | ![version](https://img.shields.io/badge/version-1.0.0-orange.svg) | ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) |
 ### Requirements
 * Python 2.7+, 3.0+
 * Jupyter ([Anaconda](https://www.continuum.io/downloads) recommended)
