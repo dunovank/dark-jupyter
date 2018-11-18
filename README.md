@@ -4,7 +4,7 @@
 
 |    Author    | Version    | License |
 | :----------: | :----------: | :----------: |
-| Kumar Nityan Suman | ![version](https://img.shields.io/badge/version-1.0.0-orange.svg) | ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) |
+| Kumar Nityan Suman | ![version](https://img.shields.io/badge/version-1.0.0-orange.svg) | [![GitHub license](https://img.shields.io/github/license/colorpal/dark-jupyter.svg)](https://github.com/colorpal/dark-jupyter/blob/master/LICENSE) |
 
 
 ![Conda](https://img.shields.io/conda/pn/conda-forge/python.svg?style=social) [![GitHub issues](https://img.shields.io/github/issues/colorpal/dark-jupyter.svg)](https://github.com/colorpal/dark-jupyter/issues)
