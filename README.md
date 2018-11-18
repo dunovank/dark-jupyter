@@ -7,7 +7,7 @@
 | Kumar Nityan Suman | ![version](https://img.shields.io/badge/version-1.0.0-orange.svg) | ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) |
 
 
-![Conda](https://img.shields.io/conda/pn/conda-forge/python.svg?style=social)
+![Conda](https://img.shields.io/conda/pn/conda-forge/python.svg?style=social) [![GitHub issues](https://img.shields.io/github/issues/colorpal/dark-jupyter.svg)](https://github.com/colorpal/dark-jupyter/issues)
 
 
 **Dark-Jupyter** theme is specially designed for Jupyter Notebook. It works on any version of the notebook. It supports all different versions of python and works in synch with any other jupyter extensions.
