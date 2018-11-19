@@ -2,12 +2,9 @@
 
 ## Dark theme for Jupyter Notebook!
 
-|    Author    | Version    | License |
-| :----------: | :----------: | :----------: |
-| Kumar Nityan Suman | ![version](https://img.shields.io/badge/version-1.0.0-orange.svg) | [![GitHub license](https://img.shields.io/github/license/colorpal/dark-jupyter.svg)](https://github.com/colorpal/dark-jupyter/blob/master/LICENSE) |
-
-
-[![GitHub issues](https://img.shields.io/github/issues/colorpal/dark-jupyter.svg)](https://github.com/colorpal/dark-jupyter/issues) [![GitHub stars](https://img.shields.io/github/stars/colorpal/dark-jupyter.svg)](https://github.com/colorpal/dark-jupyter/stargazers)
+|    Author    |    Version    |    License   |   Issues    |   Stars   | 
+| :----------: | :----------: | :----------: |:----------: |:----------: |
+| Kumar Nityan Suman | ![version](https://img.shields.io/badge/version-1.0.0-orange.svg) | [![GitHub license](https://img.shields.io/github/license/colorpal/dark-jupyter.svg)](https://github.com/colorpal/dark-jupyter/blob/master/LICENSE) | [![GitHub issues](https://img.shields.io/github/issues/colorpal/dark-jupyter.svg)](https://github.com/colorpal/dark-jupyter/issues) | [![GitHub stars](https://img.shields.io/github/stars/colorpal/dark-jupyter.svg)](https://github.com/colorpal/dark-jupyter/stargazers)
 
 
 **Dark-Jupyter** theme is specially designed for Jupyter Notebook. It works on any version of the notebook. It supports all different versions of python and works in synch with any other jupyter extensions.
