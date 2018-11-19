@@ -1,4 +1,4 @@
-# dark-jupyter [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com)
+# dark-jupyter [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/colorpal/)
 
 ## Dark theme for Jupyter Notebook!
 
