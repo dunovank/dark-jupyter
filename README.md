@@ -11,6 +11,7 @@
 
 
 **Dark-Jupyter** theme is specially designed for Jupyter Notebook. It works on any version of the notebook. It supports all different versions of python and works in synch with any other jupyter extensions.
+Due to extensive changes in Jupyter Lab with respect to the notebook implementation, this theme doesn't support Jupyter Lab.
 
 #### Home
 ![image](screens/home.png)
@@ -34,6 +35,12 @@ If familier with **git** and a *nerd*,
 ```
 $ git clone https://github.com/colorpal/dark-jupyter.git
 $ mv dark-jupyter ~/.jupyter/custom/
+```
+
+### Most important question of all: How to uninstall ?
+Simply remove the downloaded folder.
+```
+$ rm -rf .jupyter/custom/dark-jupyter
 ```
 
 ### Requirements
