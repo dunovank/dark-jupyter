@@ -33,15 +33,7 @@ If familier with git and a nerd,
 
 ```
 $ git clone https://github.com/colorpal/dark-jupyter.git
-$ mv dark-jupyter ~/.jupyter/custom/
-```
-
-If you don't want to go the above way,
-```
-Step 1: Clone the github repo by clicking on the "Clone or Download" button.
-Step 2: Click on the "Download ZIP" option.
-Step 3: Save the folder (dark-jupyter) at location : ~/.jupyter/custom/
-(If location not found, create the folder)
+$ mv dark-jupyter/src/custom.css ~/.jupyter/custom/
 ```
 
 ### Requirements
