@@ -29,11 +29,11 @@
 
 ### How to install ?
 
-If familier with git and a nerd,
+If familier with **git** and a *nerd*,
 
 ```
 $ git clone https://github.com/colorpal/dark-jupyter.git
-$ mv dark-jupyter/src/custom.css ~/.jupyter/custom/
+$ mv dark-jupyter ~/.jupyter/custom/
 ```
 
 ### Requirements
