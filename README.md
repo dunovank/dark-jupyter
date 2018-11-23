@@ -31,13 +31,13 @@ If familier with **git** and a *nerd*,
 
 ```
 $ git clone https://github.com/colorpal/dark-jupyter.git
-$ mv dark-jupyter ~/.jupyter/custom/
+$ mv dark-jupyter/src/custom.css ~/.jupyter/custom/
 ```
 
 ### Most important question of all: How to uninstall ?
 Simply remove the downloaded folder.
 ```
-$ rm -rf ~/.jupyter/custom/dark-jupyter
+$ rm -rf ~/.jupyter/custom
 ```
 
 ### Requirements
